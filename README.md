@@ -12,7 +12,7 @@
 - **OS**: Kali Linux, Ubuntu, Windows
 
 ## 📂 仓库导航
-- [CTF-Writeups](https://github.com/你的用户名/CTF-Writeups) — 比赛 & BUUCTF 解题报告
+- [CTF-Writeups](https://github.com/buusrccyy/CTF-Writeups) — 比赛 & BUUCTF 解题报告
 - [security-tools](https://github.com/你的用户名/security-tools) — Python 安全脚本
 - [my-website](https://github.com/你的用户名/my-website) — 个人全栈网站源码
 - [study-notes](https://github.com/你的用户名/study-notes) — 安全学习笔记
